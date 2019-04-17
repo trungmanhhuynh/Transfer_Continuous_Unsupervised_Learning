@@ -5,7 +5,9 @@
 
 
 # Summary 
+**Continous/Continual/Incremental Learning**
+
 A truly incremental deep learning approach for classification (Castro2018 et al) is characterized by its:
  - ability to being trained from a flow of data, with classes appearing in any order, and at any time 
  - good performance on classifying old and new classes.
- -  reasonable number of parameters and memory requirements for the model.
+ - reasonable number of parameters and memory requirements for the model.
