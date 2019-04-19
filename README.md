@@ -5,7 +5,7 @@
 1. ECCV_2018_Castro_End-to-End Incremental Learning [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.pdf)], [[code](https://github.com/fmcp/EndToEndIncrementalLearning)].
 1. Neurorobotics_2018_Parisi_Lifelong Learning of Spatiotemporal Representations with Dual-Memory Recurrent Self-Organization. [[paper](https://arxiv.org/pdf/1805.10966.pdf),[[code](https://github.com/giparisi/GDM)].
 1. Arvix_2019_Aljundi_Online continual learning with no task boundaries.[[paper](https://arxiv.org/pdf/1903.08671.pdf)],[code].
-1. NN_2019_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
+1. NN_2019_Parisi_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
 
 **Lectures**
 1. [Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU)](https://www.youtube.com/watch?v=rK6bchqeaN8)
