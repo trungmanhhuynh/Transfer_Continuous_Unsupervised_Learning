@@ -1,2 +1,3 @@
+# iCarRL: Incremental Classifier and Representation Learning.
 
-as
+__Sylvestre-Alvise Rebuffi- University of Oxford/IST Austria__
