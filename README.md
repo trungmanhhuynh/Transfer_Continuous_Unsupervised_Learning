@@ -10,7 +10,8 @@
 **Lectures**
 1. [Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU)](https://www.youtube.com/watch?v=rK6bchqeaN8)
 
-
+** Other resources:**
+1. https://vlomonaco.github.io/core50/strategies.html#ref
 
 # Summary 
 **Continous/Continual/Incremental Learning**
