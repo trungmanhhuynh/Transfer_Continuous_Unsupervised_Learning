@@ -6,7 +6,7 @@
 1. Neurorobotics_2018_Parisi_Lifelong Learning of Spatiotemporal Representations with Dual-Memory Recurrent Self-Organization. [[paper](https://arxiv.org/pdf/1805.10966.pdf)],[[code](https://github.com/giparisi/GDM)].
 1. Arvix_2019_Aljundi_Online continual learning with no task boundaries.[[paper](https://arxiv.org/pdf/1903.08671.pdf)],[code].
 1. NN_2019_Parisi_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
-https://render.githubusercontent.com/render/math?math=%5Cbegin%7Baligned%7D%0A%5Cdot%7Bx%7D%20%26amp%3B%20%3D%20%5Csigma%28y-x%29%20%5C%5C%0A%5Cdot%7By%7D%20%26amp%3B%20%3D%20%5Crho%20x%20-%20y%20-%20xz%20%5C%5C%0A%5Cdot%7Bz%7D%20%26amp%3B%20%3D%20-%5Cbeta%20z%20%2B%20xy%0A%5Cend%7Baligned%7D&mode=display
+[](https://render.githubusercontent.com/render/math?math=%5Cbegin%7Baligned%7D%0A%5Cdot%7Bx%7D%20%26amp%3B%20%3D%20%5Csigma%28y-x%29%20%5C%5C%0A%5Cdot%7By%7D%20%26amp%3B%20%3D%20%5Crho%20x%20-%20y%20-%20xz%20%5C%5C%0A%5Cdot%7Bz%7D%20%26amp%3B%20%3D%20-%5Cbeta%20z%20%2B%20xy%0A%5Cend%7Baligned%7D&mode=display)
 **Lectures**
 1. [Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU)](https://www.youtube.com/watch?v=rK6bchqeaN8)
 
