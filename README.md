@@ -12,8 +12,11 @@
 
 # Key words: 
 **Transfer Learning**
+
 **Domain Adaption**
+
 **Continual Learning**
+
 **Multi-tasks Learning**
 
 **Lectures**
