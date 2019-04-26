@@ -10,6 +10,12 @@
 1. Arvix_2019_Aljundi_Online continual learning with no task boundaries.[[paper](https://arxiv.org/pdf/1903.08671.pdf)],[code].
 1. NN_2019_Parisi_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
 
+# Key words: 
+**Transfer Learning**
+**Domain Adaption**
+**Continual Learning**
+**Multi-tasks Learning**
+
 **Lectures**
 1. [Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU)](https://www.youtube.com/watch?v=rK6bchqeaN8)
 
