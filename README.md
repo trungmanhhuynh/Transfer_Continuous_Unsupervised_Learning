@@ -11,7 +11,12 @@
 1. NN_2019_Parisi_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
 
 # Key words: 
-**Transfer Learning**
+**Transfer Learning**. The idea is that instead of training the network from scratch, one can take a pre-trained networks and adapt it 
+to solve their own tasks. There are two variations:
+ - Same domain, different tasks. For example, using the same image datasets (e.g. ImageNet), but a trained network on object detection
+ can be used for scene classification or depth estimation.
+ - Same tasks, different domains. This is called **Domain Adaption**. Object recognition for different datasets, or human tracking/trajectory prediction from static vs dynamic video scenes. 
+ - Different domain, different tasks?.
 
 **Domain Adaption**
 
