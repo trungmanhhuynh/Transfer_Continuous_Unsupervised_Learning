@@ -1,7 +1,7 @@
 # Transfer_Continuous_Unsupervised_Learning
 
 # Domain Adaption
-1. **DAMS** :Domain Adaptation with Multiple Sources.[[NIPS2009](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35079.pdf)].
+1. **DAMS**: Domain Adaptation with Multiple Sources.[[NIPS2009](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35079.pdf)].
 1. NIPS_2014_Hinton_Distilling the knowledge in a neural network. [[paper](https://arxiv.org/abs/1503.02531?context=cs)],[code],[[video](https://www.youtube.com/watch?v=skHpJ-oTi6o)].
 1. ArXiv_2016_Rusu_Deepmind_Progressive Neural Networks. [[paper](https://arxiv.org/pdf/1606.04671.pdf)], [[code](https://github.com/mhsamavatian/ProgressiveNeuralNet)]
 1. ArXiv_2016_Beyond Sharing Weights for Deep Domain Adaptation. [[paper](https://arxiv.org/pdf/1603.06432.pdf)],[[PAMI_2019](https://infoscience.epfl.ch/record/253629/files/main.pdf;)],[[code]], [[summary]].
