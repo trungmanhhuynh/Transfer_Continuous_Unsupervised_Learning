@@ -31,6 +31,7 @@ to solve their own tasks. There are two variations:
 
 **Other resources:**
 1. https://vlomonaco.github.io/core50/strategies.html#ref
+1. https://github.com/barebell/DA
 
 # Summary 
 **Continous/Continual/Incremental Learning**
