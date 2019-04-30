@@ -14,6 +14,7 @@
 1. Arvix_2019_Aljundi_Online continual learning with no task boundaries.[[paper](https://arxiv.org/pdf/1903.08671.pdf)],[code].
 1. NN_2019_Parisi_Continual lifelong learning with neural networks: A review. [[paper](https://arxiv.org/abs/1802.07569)],[code].
 1. **CLAN**: Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation. [[CVPR2019](https://arxiv.org/pdf/1809.09478.pdf)],[[PyTorch](https://github.com/RoyalVane/CLAN)],**[[summary](https://github.com/trungmanhhuynh/Transfer_Continuous_Unsupervised_Learning/blob/master/CLAN/CLAN.ipynb)]**
+1. **SymNets**: Domain-Symmetric Networks for Adversarial Domain Adaptation. [[CVPR2019](https://arxiv.org/pdf/1904.04663v1.pdf)],[[code](https://github.com/YBZh/SymNets)].
 # Key words: 
 **Transfer Learning**. The idea is that instead of training the network from scratch, one can take a pre-trained networks and adapt it 
 to solve their own tasks. There are two variations:
